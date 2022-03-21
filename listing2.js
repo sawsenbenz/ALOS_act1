@@ -1,11 +1,7 @@
 var unirest = require("unirest")
 
-var req =unirest("GET","http://localhost:3000/Cars/")
 
-
-req.headers({ "cache-control":"no-catche"})
-
-var req1 = unirest("GET","http://localhost:3000/Cars");
+var req1 = unirest("GET","http://localhost:3000/Cars")
 req1.end(function (res) {
   if (res.error) throw new Error(res,error)
   console.log(res.body.filter((Cars) => Cars.name.startsWith("M")))
