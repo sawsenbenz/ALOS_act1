@@ -1,0 +1,146 @@
+[
+  {
+    id: 19,
+    model: "Renault",
+    name: "Megan",
+    motor: '1.9',
+    Box: 'Manual',
+    Energie: 'Diesel',
+    price: 89
+  },
+  {
+    id: 53,
+    model: 'Citroen',
+    name: 'Multispace Berlingo',
+    motor: '1.6',
+    Box: 'Automatique',
+    Energie: 'Diesel',
+    price: 2300
+  },
+  {
+    id: 73,
+    model: 'Mazda',
+    name: 'Mazda Pack Luxe',
+    motor: '2.0',
+    Box: 'Manual',
+    Energie: 'Diesel',
+    price: 307
+  },
+  {
+    id: 74,
+    model: 'Mazda',
+    name: 'Mazda Sky Active',
+    motor: '2.0',
+    Box: 'Automatique',
+    Energie: 'Diesel',
+    price: 405
+  },
+  {
+    id: 75,
+    model: 'Mazda',
+    name: 'Mazda BT 50',
+    motor: '2.0',
+    Box: 'Automatique',
+    Energie: 'Diesel',
+    price: 900
+  },
+  {
+    id: 76,
+    model: 'Mazda',
+    name: 'Mazda CX5',
+    motor: '2.0',
+    Box: 'Automatique',
+    Energie: 'Diesel',
+    price: 670
+  },
+  {
+    id: 77,
+    model: 'Mazda',
+    name: 'Mazda BT 50 Pro',
+    motor: '2.0',
+    Box: 'Automatique',
+    Energie: 'Diesel',
+    price: 1390
+  },
+  {
+    id: 79,
+    model: 'nissan',
+    name: 'Micra Visia+',
+    motor: '1.2',
+    Box: 'Manual',
+    Energie: 'Essance',
+    price: 240
+  },
+  {
+    id: 83,
+    model: 'Mercedes',
+    name: 'Mercedes Benz GLA',
+    motor: '220 d 4MATIC',
+    Box: 'Automatique',
+    Energie: 'Diesel',
+    price: 234000
+  },
+  {
+    id: 84,
+    model: 'Mercedes',
+    name: 'Mercedes Benz cla 1',
+    motor: '220 d 4MATIC',
+    Box: 'Automatique',
+    Energie: 'Diesel',
+    price: 67000
+  },
+  {
+    id: 85,
+    model: 'Mercedes',
+    name: 'Mercedes Benz classe B 200',
+    motor: '220 d 4MATIC',
+    Box: 'Automatique',
+    Energie: 'Diesel',
+    price: 237000
+  },
+  {
+    id: 86,
+    model: 'Mercedes',
+    name: 'Mercedes Benz classe A 200',
+    motor: '220 d 4MATIC',
+    Box: 'Automatique',
+    Energie: 'Diesel',
+    price: 239000
+  },
+  {
+    id: 87,
+    model: 'Mercedes',
+    name: 'Mercedes Benz classe C 220',
+    motor: '220 d 4MATIC',
+    Box: 'Automatique',
+    Energie: 'Diesel',
+    price: 235000
+  },
+  {
+    id: 88,
+    model: 'Mercedes',
+    name: 'Mercedes Benz GLE AMG',
+    motor: '220 d 4MATIC',
+    Box: 'Automatique',
+    Energie: 'Diesel',
+    price: 232000
+  },
+  {
+    id: 89,
+    model: 'Mercedes',
+    name: 'Mercedes benz GLE designo',
+    motor: '220 d 4MATIC',
+    Box: 'Automatique',
+    Energie: 'Diesel',
+    price: 230000
+  },
+  {
+    id: 98,
+    model: 'Mini cooper',
+    name: 'Mini cooper ',
+    motor: '1.5',
+    Box: 'Manual',
+    Energie: 'Diesel',
+    price: 500
+  }
+]

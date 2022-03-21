@@ -1,0 +1,3 @@
+"cache-control":"no-catche" 
+The no-cache directive means that a browser may cache a response, 
+but must first submit a validation request to an origin server.
